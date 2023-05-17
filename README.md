@@ -17,8 +17,8 @@ Este projeto é uma lista de Pokémon feita com HTML, CSS e JavaScript.
 4. Ou acesse a aplicação online através do link: https://isaiasbezerraadesouza.github.io/projeto-listagem-pokemon-kanto/
 
 # Agradecimentos
-Canal Dev em Dobro pela disponibilização do projeto em live;
-Éderson S. Marques - Github: https://github.com/edersonmarques
+- Canal Dev em Dobro pela disponibilização do projeto em live;
+- Éderson S. Marques - Github: https://github.com/edersonmarques
 
 
 
