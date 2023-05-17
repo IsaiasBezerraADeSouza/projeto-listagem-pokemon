@@ -107,7 +107,7 @@ main .cartao-pokemon .tipo {
 }
 
 .voador {
-    background-color: wheat;
+    background-color: #a98ff3;
 }
 
 .agua {
@@ -119,7 +119,51 @@ main .cartao-pokemon .tipo {
 }
 
 .normal {
-    background-color: whitesmoke;
+    background-color: #a8a77a;
+}
+
+.metal {
+    background-color: #b7b7ce;
+}
+
+.eletrico {
+    background-color: #f7d02c;
+}
+
+.gelo {
+    background-color: #96d9d6;
+}
+
+.lutador {
+    background-color: #c22e28;
+}
+
+.terra {
+    background-color: #e2bf65;
+}
+
+.psycico {
+    background-color: #f95587;
+}
+
+.rocha {
+    background-color: #b6a136;
+}
+
+.fanatasma {
+    background-color: #735797;
+}
+
+.dragao {
+    background-color: #6f35fc;
+}
+
+.escuro {
+    background-color: #705746;
+}
+
+.fada {
+    background-color: #d685ad;
 }
 
 main .descricao {
